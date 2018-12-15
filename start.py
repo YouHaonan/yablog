@@ -22,6 +22,7 @@ def make_shell_context():
 @click.option('--post', default=50, help='Quantity of posts, default is 50.')
 @click.option('--comment', default=500, help='Quantity of comments, default is 500.')
 def forge(tag, post, comment):
+
     click.echo('Generating %d tags...' % tag)
     fake_tags(tag)
 

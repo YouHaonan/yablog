@@ -5,15 +5,17 @@ name = "pypi"
 
 [packages]
 flask = "*"
-flask-sqlalchemy = "*"
 faker = "*"
 python-dotenv = "*"
 flask-cors = "*"
 flask-uploads = "*"
 flask-whooshee = "*"
+flask-migrate = "*"
+pymysql = "*"
+flask-sqlalchemy = "*"
 
 [dev-packages]
 httpie = "*"
 
 [requires]
-python_version = "3.5"
+python_version = "3.7"
