@@ -39,7 +39,7 @@ class Post(db.Model):
     def to_json(self):
         tags = [tag.name for tag in self.tags]
         json_post = {
-            'name':'post',
+            'name': 'post',
             'url': url_for('api.get_post', id=self.id),
             'id': self.id,
             'title': self.title,
@@ -63,7 +63,6 @@ class Tag(db.Model):
 
     def to_json(self):
         json_tag = {
-            'name':'tag',
             'url': url_for('api.get_tag', id=self.id),
             'name': self.name,
             'id': self.id,
@@ -135,6 +134,6 @@ class Reply(db.Model):
 
 class Photo(db.Model):
     id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.String)
+    name = db.Column(db.String(30))
     post_id = db.Column(db.Integer, db.ForeignKey('post.id'))
     post = db.relationship('Post', back_populates='photos')

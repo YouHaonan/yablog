@@ -9,7 +9,7 @@ from app.models import Admin, Post, Comment, Tag
 from app import create_app, db
 from app.fakes import fake_comments, fake_posts, fake_tags
 
-app = create_app(os.getenv('FLASK_CONFIG') or 'production')
+app = create_app(os.getenv('FLASK_CONFIG') or 'development')
 
 
 @app.shell_context_processor
