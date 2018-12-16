@@ -4,28 +4,6 @@
     <list default="true" id="59dc91d5-c6cf-47fb-9f6e-8de4f0c0a2d9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/fakes.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/fakes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/css/5.11213f2f.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/css/5.11213f2f.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/1.871d76d5.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/1.871d76d5.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/2.e150ff2d.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/2.e150ff2d.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/3.b81cf686.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/3.b81cf686.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/4.c1e250c2.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/4.c1e250c2.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/5.343b14cd.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/5.343b14cd.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/6.d19ad53c.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/6.d19ad53c.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/main.13711544.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/main.13711544.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/runtime~main.e9eff98f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/static/js/runtime~main.e9eff98f.js.map" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +72,7 @@
           <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.10" value="15" />
           <entry key="project.open.time.11" value="9" />
-          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.12" value="6" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.15" value="1" />
@@ -106,7 +84,7 @@
           <entry key="project.open.time.7" value="14" />
           <entry key="project.open.time.8" value="26" />
           <entry key="project.open.time.9" value="25" />
-          <entry key="project.opened" value="114" />
+          <entry key="project.opened" value="115" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -114,16 +92,16 @@
           <entry key="Pipfile" value="9" />
           <entry key="Python Console" value="651" />
           <entry key="dummy" value="18" />
-          <entry key="env" value="102" />
+          <entry key="env" value="103" />
           <entry key="flaskenv" value="116" />
           <entry key="lock" value="7" />
           <entry key="py" value="9845" />
-          <entry key="txt" value="40" />
+          <entry key="txt" value="91" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="292" />
+          <entry key="PLAIN_TEXT" value="344" />
           <entry key="Python" value="10496" />
         </counts>
       </usages-collector>
@@ -169,8 +147,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pipfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            <state relative-caret-position="399">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -187,7 +165,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/start.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="171">
               <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
               <folding>
                 <element signature="e#26#35#0" expanded="true" />
@@ -226,19 +204,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="57">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/fakes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
+            <state relative-caret-position="589">
               <caret line="31" column="69" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
               <folding>
                 <element signature="e#25#38#0" expanded="true" />
@@ -250,7 +228,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
+            <state relative-caret-position="1045">
               <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
               <folding>
                 <element signature="e#26#55#0" expanded="true" />
@@ -314,8 +292,8 @@
         <option value="$PROJECT_DIR$/start.py" />
         <option value="$PROJECT_DIR$/.flaskenv" />
         <option value="$PROJECT_DIR$/app/models.py" />
-        <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/app/fakes.py" />
+        <option value="$PROJECT_DIR$/.env" />
       </list>
     </option>
   </component>
@@ -457,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544882094110</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fixed fake errors and changed a mysql driver">
+      <created>1544932440160</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544932440160</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -475,7 +460,7 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.22922252" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.23257373" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32624114" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -509,7 +494,8 @@
     <MESSAGE value="add db migrate" />
     <MESSAGE value="remove migrate" />
     <MESSAGE value="nothing" />
-    <option name="LAST_COMMIT_MESSAGE" value="nothing" />
+    <MESSAGE value="fixed fake errors and changed a mysql driver" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed fake errors and changed a mysql driver" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config" />
@@ -644,6 +630,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#26#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -661,13 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Pipfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.flaskenv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -675,19 +664,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="e#26#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
+        <state relative-caret-position="1045">
           <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
           <folding>
             <element signature="e#26#55#0" expanded="true" />
@@ -695,20 +674,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/fakes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
+        <state relative-caret-position="589">
           <caret line="31" column="69" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
           <folding>
             <element signature="e#25#38#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pipfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
