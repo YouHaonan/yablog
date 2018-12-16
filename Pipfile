@@ -11,8 +11,9 @@ flask-cors = "*"
 flask-uploads = "*"
 flask-whooshee = "*"
 flask-migrate = "*"
-pymysql = "*"
 flask-sqlalchemy = "*"
+sqlalchemy = "*"
+mysql-connector = "*"
 
 [dev-packages]
 httpie = "*"

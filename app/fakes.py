@@ -30,7 +30,7 @@ def fake_posts(count=50):
         )
         for j in range(random.randint(1, 5)):
             tag = Tag.query.get(random.randint(1, Tag.query.count()))
-            if tag not in post.tags:
+            if tag not in post.tags and tag is not None:
                 post.tags.append(tag)
         db.session.add(post)
     db.session.commit()
