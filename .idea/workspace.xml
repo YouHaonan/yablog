@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59dc91d5-c6cf-47fb-9f6e-8de4f0c0a2d9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.13711544.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.13711544.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.1f6a8c2f.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/static/js/main.1f6a8c2f.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +66,7 @@
     <session id="403687092">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="118" />
+          <entry key="project.closed" value="119" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="8" />
           <entry key="project.open.time.10" value="15" />
@@ -492,7 +487,14 @@
       <option name="project" value="LOCAL" />
       <updated>1545026051101</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="nothing">
+      <created>1545027429405</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1545027429405</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
